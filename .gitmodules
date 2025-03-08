@@ -1,15 +1,15 @@
 [submodule "pcb"]
-	path = mito-pcb
+	path = pcb
 	url = https://github.com/KOEGlike/mito-pcb
 [submodule "case"]
-	path = mito-case
+	path = case
 	url = https://github.com/KOEGlike/mito-case
 [submodule "blend"]
-	path = mito-blend
+	path = blend
 	url = https://github.com/KOEGlike/mito-blend
 [submodule "site"]
-	path = mito-site
+	path = site
 	url = https://github.com/KOEGlike/mito-site
 [submodule "zmk"]
-	path = zmk-config-mito
+	path = zmk-config
 	url = https://github.com/KOEGlike/zmk-config-mito

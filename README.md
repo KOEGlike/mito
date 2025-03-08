@@ -19,7 +19,8 @@ Many parts of this project are still being actively worked on
 
 ## Sponsor
 
-![Untitled](https://github.com/user-attachments/assets/04e4ae42-274b-4435-b495-e232d96ecc09)
+![0141152434522](https://github.com/user-attachments/assets/a4b15d24-1118-437a-925f-5b3efe696ced)
+
 
 Thank you so much pcbway for sponsoring this project, the video is in the making, stay tuned! The PCBs and stencil are very high quality!!
 

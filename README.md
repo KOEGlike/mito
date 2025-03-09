@@ -22,7 +22,7 @@ Many parts of this project are still being actively worked on
 ![0141152434522](https://github.com/user-attachments/assets/a4b15d24-1118-437a-925f-5b3efe696ced)
 
 
-Thank you so much pcbway for sponsoring this project, the video is in the making, stay tuned! The PCBs and stencil are very high quality!!
+Thank you so much pcbway for sponsoring this project, the video is in the making, stay tuned! The PCBs and stencil are very high quality!! I would highly recomend them as a PCB manufacturar!
 
 ## Gallery
 
